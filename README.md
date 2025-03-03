@@ -1,5 +1,8 @@
 # Expense Tracker iOS App
 
+# User Interface
+![Demo Image](Interface.png)
+
 An intuitive and minimalist iOS application to track your daily expenses. This app helps you manage your finances by recording your income and expenses in a user-friendly and clean interface. With easy-to-use features, it allows you to view your financial trends and stay on top of your budget.
 
 ## Features
