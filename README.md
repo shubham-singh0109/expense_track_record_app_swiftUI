@@ -38,11 +38,14 @@ To get started with this project locally, follow the instructions below:
 
 ```bash
 git clone https://github.com/shubham-singh0109/expense_track_record_app_swiftUI.git
+```
 
 ```bash
 cd expense_track_record_app_swiftUI
+```
 
 ```bash
 open -a xcode
+```
 
 3. Run the application by hitting "command+R"
