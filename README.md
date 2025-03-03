@@ -19,6 +19,7 @@ An intuitive and minimalist iOS application to track your daily expenses. This a
   - SwiftUI (for building user interfaces)
   - JSON (transferring data between server and client)
   - SwiftUIFontIcon for creating impressive icons to various categories
+  - Charts library (for data visualization)
 - **Platform**: iOS 18.0+ (requires iPhone or iPad with iOS 18 or later)
 
 ## Getting Started
@@ -49,3 +50,10 @@ open -a xcode
 ```
 
 3. Run the application by hitting "command+R"
+
+### Features Yet to Build
+1. Charts showing the expenses.
+2. Oauth and User Management.
+
+## Contributions
+Contributions are always welcome! Feel free to fork the repository and develop new features that enhance usability and add value for users.
