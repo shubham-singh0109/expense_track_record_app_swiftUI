@@ -19,7 +19,7 @@ An intuitive and minimalist iOS application to track your daily expenses. This a
   - SwiftUI (for building user interfaces)
   - JSON (transferring data between server and client)
   - SwiftUIFontIcon for creating impressive icons to various categories
-- **Platform**: iOS 15.0+ (requires iPhone or iPad with iOS 15 or later)
+- **Platform**: iOS 18.0+ (requires iPhone or iPad with iOS 18 or later)
 
 ## Getting Started
 
